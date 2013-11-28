@@ -1,0 +1,5 @@
+GeneName	Link
+Sox2	http://www.sox2.com
+Oct4	http://www.Oct4.com
+Oct4	http://www.Oct4Protein.com
+Oct4	http://www.Oct4Gene.com

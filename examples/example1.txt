@@ -1,0 +1,6 @@
+GeneName	Transcript	Function
+Oct4	Oct4-1	encodes OCT4 transcription factor
+Blm	Blm-1	encodes BLM
+Oct4	Oct4-2	encodes OCT4 transcription factor (isoform 2)
+Enah	Enah-1	encodes Enabled Homolog
+

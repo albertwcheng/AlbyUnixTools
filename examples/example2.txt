@@ -1,0 +1,5 @@
+GeneName	Sample1	Sample2	Sample3
+Sox2	10.25	1253.3	523
+Klf4	125.3	2102	1252
+Oct4	-125	214	123
+Blm	153	12	-122
